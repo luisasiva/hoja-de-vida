@@ -1,0 +1,19 @@
+body{/*Establecer un color de fondo*/
+    background-color: rgb(173, 109, 173);
+}
+h1{/*Color del titulo*/
+    color: rgb(128, 0, 75);
+}
+#ojo{/*Estilo-tamaño de la imagen identificada con ojo*/
+    height: 130px;
+    width: 200px;
+}
+h2{
+    color: #58032b;
+}
+th{
+    color: #140088;
+}
+h4{
+    color: azure;
+}
