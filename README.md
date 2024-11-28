@@ -23,7 +23,6 @@ class Persona {
     this.telefono = telefono;
   }
 
-  // Método para mostrar información de la persona
   mostrarInfo() {
     console.log(`Nombre: ${this.nombre}`);
     console.log(`GitHub: ${this.github}`);
@@ -31,10 +30,9 @@ class Persona {
   }
 }
 
-// Crear una instancia de la clase Persona
+
 const programador1 = new Persona("Juan David", "https://github.com/GREND-LEARD", "3102570586");
 const programador2 = new Persona("David Triana", "https://github.com/David-Triana55", "3008550592");
 
-// Llamar al método para mostrar la información
 programador1.mostrarInfo();
 programador2.mostrarInfo();
