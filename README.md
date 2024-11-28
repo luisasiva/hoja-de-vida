@@ -15,3 +15,4 @@ function Tip (){
 }
 
 Tip()
+ig del ayudante grend_leard
